@@ -13,3 +13,11 @@ Below this cat I must show example code:
 Worlds = set("Mercury", "Venus", "Earth", "Mars", "Saturn", "Jupiter", "Neptune", "Uranus")
 print(f"Hello {Worlds[random.random(0, len(Worlds)-1)]}! Goodbye {Worlds[random.random(0, len(Worlds)-1)]}")
 ```
+
+
+- [x] Blink a couple of times
+- [x] Beat my heart at 65 bmp
+- [x] Convert some ATP into ADP and GTP into GDP
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
